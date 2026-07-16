@@ -75,7 +75,7 @@ Plant-Disease-Detection/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Plant-Disease-Detection.git
+git clone https://github.com/Chothani01/Diesease-Prediction.git
 cd Plant-Disease-Detection
 ```
 
